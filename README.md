@@ -1,2 +1,2 @@
 # lab2
-Understanding the HTML5 Skeleton Structure
+Lab 2 for ITMD 361
